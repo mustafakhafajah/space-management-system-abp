@@ -1,0 +1,35 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Acme.BookingManagememtSystem4.Application.Contracts/Acme.BookingManagememtSystem4.Application.Contracts.csproj" />
+    <Project Path="src/Acme.BookingManagememtSystem4.Application/Acme.BookingManagememtSystem4.Application.csproj" />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <Project Path="src/Acme.BookingManagememtSystem4.DbMigrator/Acme.BookingManagememtSystem4.DbMigrator.csproj" />
+    <Project Path="src/Acme.BookingManagememtSystem4.Domain.Shared/Acme.BookingManagememtSystem4.Domain.Shared.csproj" />
+    <Project Path="src/Acme.BookingManagememtSystem4.Domain/Acme.BookingManagememtSystem4.Domain.csproj" />
+    <Project Path="src/Acme.BookingManagememtSystem4.EntityFrameworkCore/Acme.BookingManagememtSystem4.EntityFrameworkCore.csproj" />
+    <Project Path="src/Acme.BookingManagememtSystem4.HttpApi.Client/Acme.BookingManagememtSystem4.HttpApi.Client.csproj" />
+    
+    <Project Path="src/Acme.BookingManagememtSystem4.HttpApi.Host/Acme.BookingManagememtSystem4.HttpApi.Host.csproj" />
+    <Project Path="src/Acme.BookingManagememtSystem4.HttpApi/Acme.BookingManagememtSystem4.HttpApi.csproj" />
+    
+    
+    
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/Acme.BookingManagememtSystem4.Application.Tests/Acme.BookingManagememtSystem4.Application.Tests.csproj" />
+    <Project Path="test/Acme.BookingManagememtSystem4.Domain.Tests/Acme.BookingManagememtSystem4.Domain.Tests.csproj" />
+    <Project Path="test/Acme.BookingManagememtSystem4.EntityFrameworkCore.Tests/Acme.BookingManagememtSystem4.EntityFrameworkCore.Tests.csproj" />
+    <Project Path="test/Acme.BookingManagememtSystem4.HttpApi.Client.ConsoleTestApp/Acme.BookingManagememtSystem4.HttpApi.Client.ConsoleTestApp.csproj" />
+    
+    <Project Path="test/Acme.BookingManagememtSystem4.TestBase/Acme.BookingManagememtSystem4.TestBase.csproj" />
+    
+  </Folder>
+</Solution>

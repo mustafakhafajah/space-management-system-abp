@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Acme.BookingManagememtSystem4</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Acme.BookingManagememtSystem4.Domain\Acme.BookingManagememtSystem4.Domain.csproj" />
+    <ProjectReference Include="..\Acme.BookingManagememtSystem4.TestBase\Acme.BookingManagememtSystem4.TestBase.csproj" />
+  </ItemGroup>
+
+</Project>

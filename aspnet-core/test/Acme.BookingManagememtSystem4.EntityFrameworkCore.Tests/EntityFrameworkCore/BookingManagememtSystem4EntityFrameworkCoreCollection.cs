@@ -1,0 +1,9 @@
+﻿using Xunit;
+
+namespace Acme.BookingManagememtSystem4.EntityFrameworkCore;
+
+[CollectionDefinition(BookingManagememtSystem4TestConsts.CollectionDefinitionName)]
+public class BookingManagememtSystem4EntityFrameworkCoreCollection : ICollectionFixture<BookingManagememtSystem4EntityFrameworkCoreFixture>
+{
+
+}
